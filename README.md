@@ -2,7 +2,7 @@
 <img src="[https://media.giphy.com/media/TdTDDwmTKhbmY4WNSg/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw30cJFWhpP8ahYUdpKXaBrw&ust=1691985280359000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjwyb7e2IADFQAAAAAdAAAAABAE)" width="700px" align="center">
 </p>
 
-<h3 align="center">👋 Hi there! I'm Melissa Michaud, a Full Stack software developer based out of New Jersey.</h3>
+<h3 align="center">👋 Hi there! I'm Melissa Michaud, a Full-Stack software developer..</h3>
 <p align="center">
 👩‍⚕️🔀👩‍💻 From diagnosing medical conditions to diagnosing code bugs – my journey into the world of tech has been a whirlwind of transformation. 🌪️💻 My background in the medical field taught me precision and problem-solving, skills that seamlessly transferred to coding. 🩺📋
 
@@ -13,7 +13,11 @@
 
 <p align="center">
 📚 I’m currently learning C# and .Net 
-🐕 Fun fact: I have 3 dogs 🐶🐶🐶 that love to go on hikes 🌲
+</p>
+<p align="center">
+🐕 Fun fact: I have 3 dogs that love to go on hikes 🌲
+</p>
+<p align="center">
 📖 Fun fact: I love reading and always appreciate a good book recommendation
 </p>
 
